@@ -1,17 +1,17 @@
 # SmartAttendanceSystem
 This Program is written in Python and uses Machine Learning Models to Recognize the Faces and Mark thier Attendance in Excel Sheet.
-
-<h1> To Install This :</h1>
-<b>Commands:</b>
-pip3 install opencv-python pillow numpy openpyxl pandas
-
-<h1> To RUN This :</h1>
-<b>Commands:</b>
-# First Generate the data
-# Second Train the Data
-# Third Recognize the Faces and Mark thier Attendance
-
-python Generate.py
-python Trainer.py
-python Recog.py
+<p>
+<p><h1> To Install This :</h1>
+<p><b>Commands:</b>
+<p>pip3 install opencv-python pillow numpy openpyxl pandas
+<p>
+<p><h1> To RUN This :</h1>
+<p><b>Commands:</b>
+<p># First Generate the data
+<p># Second Train the Data
+<p># Third Recognize the Faces and Mark thier Attendance
+<p>
+<p>python Generate.py
+<p>python Trainer.py
+<p>python Recog.py
 
